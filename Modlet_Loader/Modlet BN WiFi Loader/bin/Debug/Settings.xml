@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Settings product="Modlet BN WiFi" version="1.0">
+	<Gainspan>
+		<Firmware>
+			<app1 name="bnWiFi-0.2.2-app1.bin" md5="ec6f4b616435ee4093f2dccab40716a9"/>
+			<app2 name="bnWiFi-0.2.2-app2.bin" md5="8b0c51f3d8ce777167cd6dc8d3402737"/>
+			<wlan name="WFW-REL-2_5_2_3.bin" md5="e77f2377252c23687794b96d03c73a09"/>
+		</Firmware>
+		<SFinfo name="sf_info.bin" md5="364f4489f93eb7294f2fc93a00d2dca7"/>
+		<WebPages name="webpages_rev9959.bin" md5="597cba6297f8347327d0e8cc441a31db"/>
+	</Gainspan>
+	<Freescale>
+		<MC13224V name="Modlet BN WiFi_6.0.7_28-08-2015.bin" md5="036cd60f0c57046ff99428293b575b42"/>
+		<MC13226V name="Modlet BN WiFi_16.0.7_28-08-2015.bin" md5="46e2e053e48c62f7b68fc02775c87b03"/>
+	</Freescale>
+	<Crystal coarse="9" fine="14">
+		<FrequencyCounter GPIBInterfaceID="0" primaryAddr="9" secondaryAddr="0"/>
+	</Crystal>
+</Settings>
